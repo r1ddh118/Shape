@@ -1,6 +1,6 @@
 //Riddhi Poddar
 //23070126105
-//B3(2023-27)
+//B2(2023-27)
 //Main.java
 
 import java.util.Scanner;
